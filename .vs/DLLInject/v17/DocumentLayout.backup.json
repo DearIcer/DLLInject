@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ice\\RiderProjects\\DLLInject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF2492F-9F41-4EAB-A836-48DF8CE3292E}|Library\\Library.vcxproj|C:\\Users\\Ice\\RiderProjects\\DLLInject\\Library\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FF2492F-9F41-4EAB-A836-48DF8CE3292E}|Library\\Library.vcxproj|solutionrelative:Library\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E2188E-4C21-4009-8727-23BDDA5A06DB}|Loader.AOT\\Loader.AOT.csproj|c:\\users\\ice\\riderprojects\\dllinject\\loader.aot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E2188E-4C21-4009-8727-23BDDA5A06DB}|Loader.AOT\\Loader.AOT.csproj|solutionrelative:loader.aot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\Ice\\RiderProjects\\DLLInject\\Library\\dllmain.cpp",
+              "RelativeDocumentMoniker": "Library\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\Ice\\RiderProjects\\DLLInject\\Library\\dllmain.cpp",
+              "RelativeToolTip": "Library\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T03:21:47.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ice\\RiderProjects\\DLLInject\\Loader.AOT\\Program.cs",
+              "RelativeDocumentMoniker": "Loader.AOT\\Program.cs",
+              "ToolTip": "C:\\Users\\Ice\\RiderProjects\\DLLInject\\Loader.AOT\\Program.cs",
+              "RelativeToolTip": "Loader.AOT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:21:34.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

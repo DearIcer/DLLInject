@@ -8,7 +8,7 @@ string dllPath = Path.Combine(Path.GetDirectoryName(exePath), "Library.dll");
 string jsonPath = Path.Combine(Path.GetDirectoryName(exePath), "loader.json");
 if (!File.Exists(jsonPath))
 {
-    ExeData exeData = new ExeData { Names = new List<string> { "MyApp" } };
+    ExeData exeData = new ExeData { Names = new List<string> { "notepad" } };
     string jsonData = JsonConvert.SerializeObject(exeData, Formatting.Indented);
     File.WriteAllText(jsonPath, jsonData);
     Console.WriteLine("loader.json created and populated with data.");

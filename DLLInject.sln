@@ -1,8 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Library", "Library\Library.vcxproj", "{5FF2492F-9F41-4EAB-A836-48DF8CE3292E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader.AOT", "Loader.AOT\Loader.AOT.csproj", "{07E2188E-4C21-4009-8727-23BDDA5A06DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicLibrary", "DynamicLibrary\DynamicLibrary.vcxproj", "{52454D94-7C46-4BF3-99A0-487310F089D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,11 +17,18 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5FF2492F-9F41-4EAB-A836-48DF8CE3292E}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{5FF2492F-9F41-4EAB-A836-48DF8CE3292E}.Debug|Any CPU.Build.0 = Debug|Win32
-		{5FF2492F-9F41-4EAB-A836-48DF8CE3292E}.Release|Any CPU.ActiveCfg = Release|Win32
-		{5FF2492F-9F41-4EAB-A836-48DF8CE3292E}.Release|Any CPU.Build.0 = Release|Win32
+		{5FF2492F-9F41-4EAB-A836-48DF8CE3292E}.Release|Any CPU.ActiveCfg = Release|x64
+		{5FF2492F-9F41-4EAB-A836-48DF8CE3292E}.Release|Any CPU.Build.0 = Release|x64
 		{07E2188E-4C21-4009-8727-23BDDA5A06DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{07E2188E-4C21-4009-8727-23BDDA5A06DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07E2188E-4C21-4009-8727-23BDDA5A06DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07E2188E-4C21-4009-8727-23BDDA5A06DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52454D94-7C46-4BF3-99A0-487310F089D4}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{52454D94-7C46-4BF3-99A0-487310F089D4}.Debug|Any CPU.Build.0 = Debug|Win32
+		{52454D94-7C46-4BF3-99A0-487310F089D4}.Release|Any CPU.ActiveCfg = Release|x64
+		{52454D94-7C46-4BF3-99A0-487310F089D4}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
